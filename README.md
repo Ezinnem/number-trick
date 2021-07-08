@@ -1,1 +1,1 @@
-# number-trick
+# Number-trick Game
